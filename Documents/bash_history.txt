@@ -1,0 +1,231 @@
+ls
+sudo nano README.md
+sudo apt install git
+git -v
+sudo apt install git
+git -v
+git -version
+git --version
+sudo apt install ranger
+ranger
+git init
+mkdlr FTDC
+git add README.md
+echo "# FTDC-Test" >> README.md
+git add README.nd
+git add README.md
+git commit -m "first commit"
+git branch -M main
+ls
+git remote add origin https://github.com/lorien2k/FTDC-Test.git
+git push -u origin main
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/lorien2k/FTDC-Test.git
+
+git config --global user.email "rachmatilyas2003@gmail.com"
+git config --global user.name "lorien"
+git config --global user.name "lorien2k"
+git commit -m "first commit"
+git remote add origin https://github.com/lorien2k/FTDC-Test.git
+git push -u origin main
+ls
+git branch
+sudo nano README.md
+git branch
+sudo apt install git-all
+git config --global user.name 
+git config --global user.email
+sudo apt update
+sudo apt upgrade
+sudo apt install wget
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo dpkg -i google-chrome-stable_current_amd64.deb
+sudo apt-get install-f
+sudo apt-get install -f
+google-chrome
+sudo snap install pycharm-community --classic
+sudo apt install virtualenv
+clear
+ls
+cd Documents
+git clone https://github.com/Herusyahputra/moildev002.git
+ls
+cd moildev002
+python main.py
+python3 main.py
+sudo apt install virtual env
+sudo apt install virtualenv
+ls
+virtualenv venv
+ls
+python3 main.py
+pip install opencv-python
+pip freeze
+python3 main.py
+python3 main.py 
+clear
+ls
+python3 main.py 
+cd moildev
+ls
+cd unitest/
+ls
+testing_code.py
+python3 testing_code.py
+ls
+cd Documents
+ls
+cd moilddev002
+cd moildev002
+ls
+cd moildev
+ls
+cd unitest
+ls
+python3 testing_code.py
+sudo snap install pycharm-professional --classic
+sudo snap install pycharm-community --classic
+history
+git -v
+git --version
+git add README.md
+cd
+ls
+cd README.md
+ls
+echo "# FTDC-Test" >> README.md
+echo "# FTDC-homework" >> README.md
+git add README.nd
+git add README.md
+git commit -m "first commit"
+git branch -M main
+ls
+git remote add origin https://github.com/lorien2k/FTDC-Homework.git
+google-chrome
+git clone https://github.com/lorien2k/Tutorialex.git
+cd tutorialex/
+ls
+cd Tutorialex/
+git commit -m "tambah"
+git add .
+git commit -m "tambah"
+git push -u origin main
+sudo nano README.md
+git push -u origin main
+ls
+cd desktop
+cd Desktop
+clear
+pwd
+cd
+clear
+pwd
+ls
+cd Desktop
+ls
+mkdir tutorialex
+ls
+cd tutorialex
+ls
+clear
+echo "# Tutorialex">>  README.md
+ls
+sudo nano README.md
+git init
+ls
+git add .
+git commit -m "test upload"
+git status
+git branch -M main
+git branch
+git remote add origin https://github.com/lorien2k/Tutorialex.git
+git push -u origin main
+sudo nano README.md
+git add .
+git commit -m "add token"
+git push -u origin main
+clear
+ls
+sudo nano README.md
+clear
+google chrome
+clear
+history
+ls
+history
+echo "# Do-inhome" >> README.md
+ls
+cd Documents
+git clone https://github.com/lorien2k/Do-inhome.git
+ls
+cd Do-inhome
+git add .
+ls
+git commit -m "inhome"
+git add README.md
+echo "# Do-inhome" >> README.md
+ls
+git add README.md
+git add .
+git commit -m "inhome"
+git branch -m main
+git remote add origin https://github.com/lorien2k/Do-inhome.git
+echo "# Do-inhome" >> README.md
+ls
+git add .
+git commit -m "inhome"
+git add README.md
+git commit -m "inhome"
+git commit --unset-upstream
+clear
+history
+ls
+cd Desktop
+mkdir Homework
+ls
+cd Homework
+echo "# Homework" >> README.md
+ls
+sudo nano README.md
+git init
+ls
+git add .
+git commit -m "testing"
+git status
+git branch -M main
+git branch
+git remote add origin https://github.com/lorien2k/Homework.git
+git push -u origin main
+sudo nano README.md
+git add .
+git commit -m "token op"
+git push -u origin main
+ls
+sudo nano README.md
+git clone https://github.com/Herusyahputra/moildev002.git
+ls
+git add .
+git commit -m "testing"
+git push -u origin main
+git clone https://github.com/Herusyahputra/moildev002.git
+git add .
+git commit -m "testing"
+git push -u origin main
+history
+git --version
+sudo apt update
+sudo apt install build-essential
+sudo apt update
+sudo apt upgrade -y
+git --version
+sudo apt install build-essential
+sudo apt install qtcreator
+sudo apt install qtbase5-dev qt5-qmake
+
+sudo apt install qtcreator
+sudo apt install qtbase5-dev qt5-qmake
+sudo apt install qtcreator
+clear
+sudo dpkg --configure -a
+sudo  apt install -f
